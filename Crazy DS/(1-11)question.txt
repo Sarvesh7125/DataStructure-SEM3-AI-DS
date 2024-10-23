@@ -1,0 +1,13 @@
+Write a C program to implement : 
+
+1.	Stack using Arrays and demonstrate the Overflow & Underflow conditions
+2.	Parenthesis Matching using Stacks
+3.	Conversion of Infix Expression to Postfix Expression using Stacks
+4.	Postfix Expression evaluation using Stacks
+5.	Linear Queue using Arrays and demonstrate the Overflow & Underflow conditions
+6.	Circular Queue using Arrays and demonstrate Overflow & Underflow conditions
+7.	Priority Queue using Arrays and demonstrate the status after Insertions and Deletions
+8.	Singly Linked List - Insert at Beg/End, Delete from Beg/End, Delete at specific node, Display
+9.	Stack using Singly Linked List
+10.	Linear Queue using Singly Linked List
+11.	Circular Linked List - Insert at Beg/End, Delete from Beg/End, Delete at specific node, Display

@@ -1,0 +1,8 @@
+Write a Java program to implement:
+
+1.	Binary Search Tree - Insert/Delete and Search values and perform Inorder/Postorder/Preorder Traversal
+2.	Expression Tree, given the Postfix expression as input and print the Infix Expression
+3.	Binary Search for the given set of values.
+4.	Selection,Insertion,Merge,Sort and count the number of comparisons and swaps respectively.
+5.	Quick,Heap,Bucket Sort and count the number of comparisons and swaps respectively.
+6.	Hashing Function - Division, Mid Square, Multiplication Method. Count the number of Collisions and solve the Collision using Linear Probing
